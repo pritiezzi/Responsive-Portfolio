@@ -215,3 +215,38 @@ input[type=submit] {
   background: #4aaaa5;
   border: 0 none;
 }
+
+  @media screen and (max-width: 980px) {
+  input {
+  width:95%;
+  padding:10px;
+  }
+  textarea {
+  width:95%;
+  padding:10px;
+  }
+  #submit{width:50%;}
+  }
+  @media screen and (max-width: 768px) {
+  input {
+  width:95%;
+  padding:10px;
+  }
+  textarea {
+  width:95%;
+  padding:10px;
+  }
+  #submit{width:50%;}
+  }
+  @media screen and (max-width: 640px) {
+  input {
+  width:95%;
+  padding:10px;
+  }
+  textarea {
+  width:95%;
+  padding:10px;
+  }
+  #submit{width:50%;}
+  }
+
