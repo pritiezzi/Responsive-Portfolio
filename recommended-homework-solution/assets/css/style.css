@@ -247,6 +247,10 @@ input[type=submit] {
   width:95%;
   padding:10px;
   }
+  nav {
+    float: none;
+
+  }
   #submit{width:50%;}
   }
 
